@@ -13,10 +13,10 @@ bitsCrunch is redefining blockchain analytics. We provide a decentralized, AI-po
 
 ## Our Growth
 - Raised over $12 million from top investors like **Coinbase Ventures**, **Animoca Brands**, **Polygon Ventures**, **Chainlink Labs**, **Crypto.com Capital**, and others.
-- Completed one of the fastest community sales in **Coinlist** history: [Read more](https://blog.coinlist.co/bitscrunch-community-sale-sold-out-in-record-time/).
+- Completed one of the fastest community sales in [Coinlist](https://pro.coinlist.co/trader/BCUT-USDT) history: [Read more](https://blog.coinlist.co/bitscrunch-community-sale-sold-out-in-record-time/).
 
 ## $BCUT Token
-The bitsCrunch Token ($BCUT) is listed on leading exchanges such as **ByBit**, **KuCoin**, **Gate.io**, **Crypto.com**, **Coinlist**, and **Uniswap**.
+The bitsCrunch Token ($BCUT) is listed on leading exchanges such as [ByBit](https://www.bybit.com/en/trade/spot/BCUT/USDT), [KuCoin](https://www.kucoin.com/trade/BCUT-USDT), [Gate.io](https://www.gate.io/trade/BCUT_USDT), [Crypto.com](https://crypto.com/exchange/trade/BCUT_USD), [Coinlist](https://pro.coinlist.co/trader/BCUT-USDT), and [Uniswap](https://app.uniswap.org/explore/tokens/ethereum/0xbef26bd568e421d6708cca55ad6e35f8bfa0c406).
 
 - **Ethereum Smart Contract**: [View on Etherscan](https://etherscan.io/token/0xBEF26Bd568e421D6708CCA55Ad6e35f8bfA0C406)
 - **Polygon Smart Contract**: [View on Polygonscan](https://polygonscan.com/token/0x3fb83A9A2c4408909c058b0BfE5B4823f54fAfE2)
